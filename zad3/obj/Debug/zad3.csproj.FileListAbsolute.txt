@@ -1,0 +1,14 @@
+C:\Users\Valer04ka\source\repos\2010\zad3\obj\Debug\MainWindow.g.cs
+C:\Users\Valer04ka\source\repos\2010\zad3\obj\Debug\App.g.cs
+C:\Users\Valer04ka\source\repos\2010\zad3\obj\Debug\zad3_MarkupCompile.cache
+C:\Users\Valer04ka\source\repos\2010\zad3\obj\Debug\zad3_MarkupCompile.lref
+C:\Users\Valer04ka\source\repos\2010\zad3\bin\Debug\zad3.exe.config
+C:\Users\Valer04ka\source\repos\2010\zad3\bin\Debug\zad3.exe
+C:\Users\Valer04ka\source\repos\2010\zad3\bin\Debug\zad3.pdb
+C:\Users\Valer04ka\source\repos\2010\zad3\obj\Debug\MainWindow.baml
+C:\Users\Valer04ka\source\repos\2010\zad3\obj\Debug\zad3.g.resources
+C:\Users\Valer04ka\source\repos\2010\zad3\obj\Debug\zad3.Properties.Resources.resources
+C:\Users\Valer04ka\source\repos\2010\zad3\obj\Debug\zad3.csproj.GenerateResource.cache
+C:\Users\Valer04ka\source\repos\2010\zad3\obj\Debug\zad3.csproj.CoreCompileInputs.cache
+C:\Users\Valer04ka\source\repos\2010\zad3\obj\Debug\zad3.exe
+C:\Users\Valer04ka\source\repos\2010\zad3\obj\Debug\zad3.pdb
