@@ -1,0 +1,15 @@
+C:\Users\Valer04ka\source\repos\2010\2010\bin\Debug\2010.exe.config
+C:\Users\Valer04ka\source\repos\2010\2010\bin\Debug\2010.exe
+C:\Users\Valer04ka\source\repos\2010\2010\bin\Debug\2010.pdb
+C:\Users\Valer04ka\source\repos\2010\2010\obj\Debug\2010.csprojAssemblyReference.cache
+C:\Users\Valer04ka\source\repos\2010\2010\obj\Debug\MainWindow.g.cs
+C:\Users\Valer04ka\source\repos\2010\2010\obj\Debug\App.g.cs
+C:\Users\Valer04ka\source\repos\2010\2010\obj\Debug\2010_MarkupCompile.cache
+C:\Users\Valer04ka\source\repos\2010\2010\obj\Debug\2010_MarkupCompile.lref
+C:\Users\Valer04ka\source\repos\2010\2010\obj\Debug\MainWindow.baml
+C:\Users\Valer04ka\source\repos\2010\2010\obj\Debug\2010.g.resources
+C:\Users\Valer04ka\source\repos\2010\2010\obj\Debug\_2010.Properties.Resources.resources
+C:\Users\Valer04ka\source\repos\2010\2010\obj\Debug\2010.csproj.GenerateResource.cache
+C:\Users\Valer04ka\source\repos\2010\2010\obj\Debug\2010.csproj.CoreCompileInputs.cache
+C:\Users\Valer04ka\source\repos\2010\2010\obj\Debug\2010.exe
+C:\Users\Valer04ka\source\repos\2010\2010\obj\Debug\2010.pdb
